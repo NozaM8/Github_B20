@@ -5,3 +5,8 @@ We created a git repository on the Documents called GitHub_B20
 We added 1 file inside called file1.txt
 Git automatically detected the changes
 We committed the changes into the local repository
+
+
+okay, now adding some new changes.
+It's Day 1 Git & GitHub Class with Akbar
+Hehe ^~^
